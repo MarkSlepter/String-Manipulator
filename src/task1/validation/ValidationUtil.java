@@ -1,7 +1,7 @@
-package com.teachmeskills.lesson13.validation;
+package task1.validation;
 
-import com.teachmeskills.lesson13.exceptions.WrongLoginException;
-import com.teachmeskills.lesson13.exceptions.WrongPasswordException;
+import task1.exceptions.WrongLoginException;
+import task1.exceptions.WrongPasswordException;
 
 public class ValidationUtil {
     public static boolean validateCredentials(String login, String password, String confirmPassword){

@@ -1,4 +1,4 @@
-package com.teachmeskills.lesson13.exceptions;
+package task1.exceptions;
 
 public class WrongPasswordException extends Exception{
     public WrongPasswordException(){

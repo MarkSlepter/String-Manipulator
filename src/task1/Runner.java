@@ -1,6 +1,6 @@
-package com.teachmeskills.lesson13;
+package task1;
 
-import com.teachmeskills.lesson13.validation.ValidationUtil;
+import task1.validation.ValidationUtil;
 
 public class Runner {
     public static void main(String[] args) {
