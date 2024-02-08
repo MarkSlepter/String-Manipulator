@@ -1,4 +1,4 @@
-package task1.exceptions;
+package task1.exception;
 
 public class WrongLoginException extends Exception{
     public WrongLoginException(){

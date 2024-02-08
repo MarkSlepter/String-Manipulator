@@ -1,7 +1,7 @@
 package task1.validation;
 
-import task1.exceptions.WrongLoginException;
-import task1.exceptions.WrongPasswordException;
+import task1.exception.WrongLoginException;
+import task1.exception.WrongPasswordException;
 
 public class ValidationUtil {
     public static boolean validateCredentials(String login, String password, String confirmPassword){
