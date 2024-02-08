@@ -1,5 +1,3 @@
-# TeachMeSkills_C26_Lesson_13_HW
-This repository contains my homework assignment number 13
 # Task 1
 Create a class that will have a static method.
 This method takes three parameters as input:
